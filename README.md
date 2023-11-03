@@ -35,7 +35,7 @@ Antes de prosseguir com a instalação, verifique se o seu dispositivo Android e
 ## Notas
 
 - Certifique-se de manter seu dispositivo e dados seguros, baixando aplicativos apenas de fontes confiáveis.
-- Este APK é uma versão de lançamento do aplicativo e está pronta para uso.
+- Este APK é uma versão de pré-lançamento do aplicativo e está pronta para uso.
 
 ## Aviso de Segurança
 

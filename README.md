@@ -29,7 +29,7 @@ Antes de prosseguir com a instalação, verifique se o seu dispositivo Android e
 
 ## Requisitos do Sistema
 
-- Dispositivo Android com sistema operacional Android 5.0 (Lollipop) ou superior.
+- Dispositivo Android com sistema operacional Android 7.0 Nougat ou superior.
 - Espaço de armazenamento mínimo de 24MB para a instalação do aplicativo.
 
 ## Notas
@@ -39,4 +39,4 @@ Antes de prosseguir com a instalação, verifique se o seu dispositivo Android e
 
 ## Aviso de Segurança
 
-Instale aplicativos apenas de fontes confiáveis e mantenha o seu dispositivo atualizado para garantir a segurança. Este repositório e o APK são fornecidos "como estão" e sem garantias.
+Instale aplicativos apenas de fontes confiáveis e mantenha o seu dispositivo atualizado para garantir a segurança.
